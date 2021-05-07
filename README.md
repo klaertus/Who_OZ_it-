@@ -1,4 +1,4 @@
-# Who_OZ_it-
+# Who_OZ_it
 A Oz implementation of Akinator game
 
 ## Run
@@ -8,8 +8,8 @@ ozengine main.ozf
 ```
 
 ## Arguments
-```bash
+```
  --nogui : command-line version 
  --db : database
- --ans: list of answers for the non gui mode 
+ --ans : list of answers for the non gui mode 
 ```
